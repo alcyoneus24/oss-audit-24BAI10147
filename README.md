@@ -122,14 +122,13 @@ Python was created by Guido van Rossum and released in 1991 as an open-source pr
 ## Repository Structure
 
 ```
-oss-audit-[rollnumber]/
+oss-audit-24BAI10147/
 │
-├── scripts/
-│   ├── script1_system_identity.sh
-│   ├── script2_package_inspector.sh
-│   ├── script3_disk_auditor.sh
-│   ├── script4_log_analyzer.sh
-│   └── script5_manifest_generator.sh
+├── script1_system_identity.sh
+├── script2_package_inspector.sh
+├── script3_disk_auditor.sh
+├── script4_log_analyzer.sh
+├── script5_manifest_generator.sh
 │
 └── README.md
 ```
